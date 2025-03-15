@@ -6,6 +6,7 @@ It requires you to have mythic_notify for notification popups. ( will change in 
 - Configuration: Enable/Disable Brow and Beard growth.
 - Configuration: Enable/Disable Notifications.
 - Configuration: Time for growth for both Brow and Beard.
+- integration information will be within the folder: extrainfo.
 
 # ToDo - for now:
 - Create/Add animations when using items.
@@ -21,8 +22,6 @@ Title: Notification support (NOTIFICATION SYSTEM)
 Notification system: (YOUR SYSTEM)
 Link to system: (LINK TO SYSTEM)
 ```
-
-# integration information will be within the folder: extrainfo.
 
 
 
