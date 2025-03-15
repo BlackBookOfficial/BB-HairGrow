@@ -1,6 +1,6 @@
 # BB-HairGrow ( Requires SkinChanger! )
-Simple script i put together to tackle down on majority of wanted functions.
-It requires you to have mythic_notify for notification popups.
+Simple script i put together to tackle down on a wanted functions.
+It requires you to have mythic_notify for notification popups. ( will change in the future )
 
 # What does it contain?
 - Configuration: Enable/Disable Brow and Beard growth.
