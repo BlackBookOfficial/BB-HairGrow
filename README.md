@@ -3,11 +3,15 @@ Simple script i put together to tackle down on majority of wanted functions.
 It requires you to have mythic_notify for notification popups.
 
 # What does it contain?
-- Config to set time how long it takes to grow hair per minute.
+- Configuration: Enable/Disable Brow and Beard growth.
+- Configuration: Enable/Disable Notifications.
+- Configuration: Time for growth for both Brow and Beard.
 
-# Updates:
-Updates will happen eventually.
-Just keep eyes on this repo.
+# ToDo - for now:
+- Create/Add animations when using items.
+- Set checks for genders and options.
+- Ability to get a rash/blemish when shaving or randomly if not maintained ( Randomized opacity )
+- It's own shop with possible custom MLO ( TBD )
 
 # Requirements:
 https://github.com/JayMontana36/mythic_notify
@@ -23,9 +27,10 @@ Link to system: (LINK TO SYSTEM)
 
 
 
-
-
-
-
-
-# Temporary README - Will change in the future.
+# Long term ToDo - No dates or progression report ( It will be unknown if these will be QB-core or ESX or Standalone based ):
+- localized json based database for saving important info ( separate script release: TBD ) - free
+- Character creation system ( advanced ) - possibly free
+- Banking/atm system ( advanced ) - possibly free
+- Inventory system ( advanced ) = free
+- anti-cheat - possible external AI monitoring ( extremely advanced & complex ) - not free
+- Obfuscation system/Hashing - remote/locale ( complex ) - possibly free
