@@ -1,0 +1,36 @@
+-- Inside QB-Core's items.lua file (or a similar file within the QB-Core framework):
+
+local Items = {
+  -- Existing items...
+
+  {
+    name = "shaver",
+    label = "Shave Tool",
+    weight = 1,
+    type = "tool", -- Or whatever type is appropriate in your QB-Core system
+    description = "A tool to shave your beard.", -- Optional description
+    unique = false,  -- Optional, usually false for consumable items
+    useable = true, -- Usually true if it is usable.
+    canRemove = true,
+    image = "path/to/shaver.png",  -- Optional image path
+  },
+  {
+    name = "browtrimmer",
+    label = "Brow Trimmer",
+    weight = 1,
+    type = "tool", -- Or whatever type is appropriate in your QB-Core system
+    description = "A tool to trim your eyebrows.",  -- Optional description
+    unique = false,  -- Optional, usually false for consumable items
+    useable = true, --Usually true if it is usable.
+    canRemove = true,
+    image = "path/to/browtrimmer.png",  -- Optional image path
+  },
+
+  -- ... other items ...
+}
+
+return Items
+
+-- Within qb-inventory/html/images drop your images for the items. "MAKE SURE THE PICTURE HAS THE SAME NAME AS THE ITEM"
+-- You should know where to go to make the item an consumable or look up what system you are using and add the items listed above.
+-- Add the items in any shop you want it to be.
